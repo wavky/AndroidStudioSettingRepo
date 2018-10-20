@@ -22,6 +22,12 @@
   <action id="EditorCodeBlockEnd">
     <keyboard-shortcut first-keystroke="meta alt close_bracket" />
   </action>
+  <action id="EditorDecreaseFontSize">
+    <keyboard-shortcut first-keystroke="shift meta minus" />
+  </action>
+  <action id="EditorIncreaseFontSize">
+    <keyboard-shortcut first-keystroke="shift meta equals" />
+  </action>
   <action id="EditorJoinLines">
     <keyboard-shortcut first-keystroke="shift meta j" />
   </action>
