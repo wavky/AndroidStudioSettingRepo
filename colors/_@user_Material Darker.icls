@@ -4,12 +4,12 @@
     <property name="created">2019-06-07T00:24:54</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.4.1.0</property>
-    <property name="modified">2019-06-07T01:00:17</property>
+    <property name="modified">2019-06-08T00:36:58</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="17" />
-  <option name="EDITOR_FONT_NAME" value="Fira Code Retina" />
+  <option name="LINE_SPACING" value="1.4" />
+  <option name="EDITOR_FONT_SIZE" value="15" />
+  <option name="EDITOR_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="CONSOLE_LINE_SPACING" value="1.6" />
@@ -1246,7 +1246,6 @@
       <value>
         <option name="FOREGROUND" value="292929" />
         <option name="BACKGROUND" value="ffe555" />
-        <option name="EFFECT_COLOR" value="e91e63" />
         <option name="ERROR_STRIPE_COLOR" value="ffe555" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
@@ -3796,7 +3795,6 @@
       <value>
         <option name="FOREGROUND" value="292929" />
         <option name="BACKGROUND" value="ffce00" />
-        <option name="EFFECT_COLOR" value="e91e63" />
         <option name="ERROR_STRIPE_COLOR" value="ffce00" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
