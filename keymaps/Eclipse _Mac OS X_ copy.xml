@@ -22,6 +22,16 @@
     <keyboard-shortcut first-keystroke="meta f11" />
     <keyboard-shortcut first-keystroke="meta f5" />
   </action>
+  <action id="Diff.NextChange">
+    <keyboard-shortcut first-keystroke="meta f6" />
+    <keyboard-shortcut first-keystroke="meta alt right" />
+    <keyboard-shortcut first-keystroke="meta close_bracket" />
+  </action>
+  <action id="Diff.PrevChange">
+    <keyboard-shortcut first-keystroke="shift meta f6" />
+    <keyboard-shortcut first-keystroke="meta alt left" />
+    <keyboard-shortcut first-keystroke="meta open_bracket" />
+  </action>
   <action id="EditSource" />
   <action id="EditorCodeBlockEnd">
     <keyboard-shortcut first-keystroke="meta alt close_bracket" />
