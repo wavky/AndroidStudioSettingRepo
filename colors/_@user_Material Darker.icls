@@ -4,7 +4,7 @@
     <property name="created">2019-06-07T00:24:54</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.4.1.0</property>
-    <property name="modified">2019-06-08T17:47:23</property>
+    <property name="modified">2019-06-08T18:04:44</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -3788,7 +3788,7 @@
     <option name="WARNING_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="ffcb6b" />
-        <option name="ERROR_STRIPE_COLOR" value="ffcb6b" />
+        <option name="ERROR_STRIPE_COLOR" value="866e34" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
