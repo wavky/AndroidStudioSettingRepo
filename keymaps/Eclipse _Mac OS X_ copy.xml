@@ -5,6 +5,10 @@
   <action id="Android.SyncProject">
     <keyboard-shortcut first-keystroke="alt back_slash" />
   </action>
+  <action id="AndroidConnectDebuggerAction">
+    <keyboard-shortcut first-keystroke="shift meta f5" />
+    <keyboard-shortcut first-keystroke="shift meta back_slash" />
+  </action>
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="shift ctrl meta b" />
   </action>
