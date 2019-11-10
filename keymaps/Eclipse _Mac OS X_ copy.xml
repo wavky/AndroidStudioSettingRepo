@@ -65,10 +65,6 @@
     <keyboard-shortcut first-keystroke="meta g" />
     <keyboard-shortcut first-keystroke="shift meta g" />
   </action>
-  <action id="GenerateCopyConstructor">
-    <keyboard-shortcut first-keystroke="meta 0" />
-    <keyboard-shortcut first-keystroke="alt 0" />
-  </action>
   <action id="Git.CompareWithBranch">
     <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
