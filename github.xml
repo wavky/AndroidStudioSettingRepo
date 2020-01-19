@@ -1,7 +1,13 @@
 <application>
+  <component name="GithubAccounts">
+    <account id="1185f4b9-217a-4167-9ae6-d60085c10785" name="wavky">
+      <server host="github.com" />
+    </account>
+  </component>
   <component name="GithubSettings">
     <option name="HOST" value="github.com/" />
     <option name="AUTH_TYPE" value="TOKEN" />
     <option name="PRIVATE_GIST" value="false" />
+    <option name="CLONE_GIT_USING_SSH" value="true" />
   </component>
 </application>
