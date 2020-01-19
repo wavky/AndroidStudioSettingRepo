@@ -75,6 +75,7 @@
   <action id="GotoFile" />
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="shift f3" />
+    <keyboard-shortcut first-keystroke="alt 3" />
   </action>
   <action id="NextProjectWindow" />
   <action id="NextTab">
@@ -105,6 +106,10 @@
     <keyboard-shortcut first-keystroke="shift meta enter" />
   </action>
   <action id="RunToCursor" />
+  <action id="ShowBookmarks">
+    <keyboard-shortcut first-keystroke="meta f3" />
+    <keyboard-shortcut first-keystroke="shift meta b" />
+  </action>
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="meta enter" />
   </action>
@@ -119,6 +124,7 @@
   <action id="ToggleInlineHintsAction">
     <keyboard-shortcut first-keystroke="shift ctrl h" />
   </action>
+  <action id="ToggleLineBreakpoint" />
   <action id="TypeHierarchy">
     <keyboard-shortcut first-keystroke="f4" />
     <keyboard-shortcut first-keystroke="meta t" />
