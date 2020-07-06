@@ -4,9 +4,12 @@
     <option name="isContrastMode" value="true" />
     <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
+    <option name="overrideAccentColor" value="false" />
     <option name="pristineConfig" value="false" />
     <option name="highlightThickness" value="4" />
-    <option name="accentColor" value="ff9800" />
+    <option name="settingsSelectedTab" value="4" />
+    <option name="accentColor" value="ff5370" />
+    <option name="secondAccentColor" value="000000" />
     <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="31d33f9d:16b2d593e82:-8000" />
     <option name="version" value="4.11.5" />
