@@ -12,6 +12,9 @@
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="shift ctrl meta b" />
   </action>
+  <action id="CleanGradleProject">
+    <keyboard-shortcut first-keystroke="shift ctrl meta back_space" />
+  </action>
   <action id="CloseActiveTab" />
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="shift meta w" />
@@ -102,6 +105,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl back_quote" />
   </action>
   <action id="QuickChangeScheme" />
+  <action id="RebuildGradleProject">
+    <keyboard-shortcut first-keystroke="shift ctrl meta enter" />
+  </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
