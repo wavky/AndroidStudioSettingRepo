@@ -23,10 +23,7 @@
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="shift ctrl meta o" />
   </action>
-  <action id="CodeGlance.toggle">
-    <keyboard-shortcut first-keystroke="shift meta g" />
-    <keyboard-shortcut first-keystroke="shift meta m" />
-  </action>
+  <action id="CodeGlance.toggle" />
   <action id="CompileDirty">
     <keyboard-shortcut first-keystroke="alt enter" />
   </action>
